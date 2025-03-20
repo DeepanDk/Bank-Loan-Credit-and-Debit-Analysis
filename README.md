@@ -10,7 +10,9 @@
 Data cleaning and preparation using Excel & SQL
 Data modeling and transformation for better insights
 Power BI & Tableau dashboards for visualization
-Business performance analysis with KPIs and trend reports
+Business performance analysis with KPIs and trend reports[Debit and Credit banking_data.xlsx](https://github.com/user-attachments/files/19361860/Debit.and.Credit.banking_data.xlsx)
+[Bank Data Analystics.xlsx](https://github.com/user-attachments/files/19361858/Bank.Data.Analystics.xlsx)
+
 Automated reporting using BI tools
 📂 Repository Contents:
 Datasets (Raw & cleaned data)
